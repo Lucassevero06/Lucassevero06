@@ -1,10 +1,10 @@
 # Olá! Eu sou Lucas Severo 👋
 
-🚀 Estudante de Engenharia de Software com paixão por desenvolvimento de software, sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Focado principalmente no **back-end**, com experiência em linguagens como **Java** e **PHP**, além de tecnologias modernas e frameworks.
+🚀 Estudante de Engenharia de Software com paixão por desenvolvimento de software, sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Focado principalmente no **Back-end**, com experiência em linguagens como **Java** e **PHP**, além de tecnologias modernas e frameworks.
 
 - 🌱 Atualmente, estou me aprofundando em **JavaScript** com **ExpressJs e React** para melhorar minhas habilidades no desenvolvimento de aplicações robustas e escaláveis.
 - 👯 Colaboro em projetos da **Prefeitura do Município de Porto Velho**.
-- 🎯 Meu objetivo é continuar crescendo como desenvolvedor back-end, sempre explorando novas abordagens e padrões de design.
+- 🎯 Meu objetivo é continuar crescendo como desenvolvedor **FullStack**, sempre explorando novas abordagens e padrões de design.
 - 📫 Como me contatar: [lucasgabriel31032006@gmail.com](mailto:lucasgabriel31032006@gmail.com)
 
 
